@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Business Studies",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 100,
+        "image": "https://media.istockphoto.com/photos/portrait-of-female-elementary-school-teacher-standing-in-classroom-picture-id1160927409?k=20&m=1160927409&s=612x612&w=0&h=g9SIp9-1_umYi34dxuoBrtsxCUtazkulcn4b2H2_c4s=",
+        "id": 1,
+        "userNumb": 35,
+        "rating": 4.5,
+        "category": "Business"
+    },
+    {
+        "name": "Computer Science",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 500,
+        "image": "https://media.istockphoto.com/photos/mature-man-professor-standing-in-class-picture-id1278976696?k=20&m=1278976696&s=612x612&w=0&h=fwaDIKKprMzxS9s-dKfX3GGvUBv2rajbKOMfjCH5oJg=",
+        "id": 2,
+        "userNumb": 135,
+        "rating": 4,
+        "category": "Computer Science"
+    },
+    {
+        "name": "Mathematics",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 200,
+        "image": "https://media.istockphoto.com/photos/teacher-asking-her-students-a-question-picture-id486325400?k=20&m=486325400&s=612x612&w=0&h=QG5xBPH_RoovDklQ4tUFEH2XOYxSs5ZAs0eOCAPHXiM=",
+        "id": 3,
+        "userNumb": 75,
+        "rating": 3.5,
+        "category": "Mathematics"
+    },
+    {
+        "name": "Physics",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 100,
+        "image": "https://media.istockphoto.com/photos/african-american-female-science-teacher-with-group-of-kids-electric-picture-id1292554747?k=20&m=1292554747&s=612x612&w=0&h=DjUm2-rct7kybA0g0_U1_5hgoUYkoYj5PSWXYteDB60=",
+        "id": 4,
+        "userNumb": 99,
+        "rating": 3,
+        "category": "Physics"
+    },
+    {
+        "name": "Chemistry",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 99,
+        "image": "https://thumbs.dreamstime.com/b/chemistry-lecturer-lecture-college-chemistry-lecturer-lecture-college-172268647.jpg",
+        "id": 5,
+        "userNumb": 105,
+        "rating": 5,
+        "category": "Chemistry"
+    },
+    {
+        "name": "Biology",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 75,
+        "image": "https://www.scienceinteractive.com/wp-content/uploads/2019/12/still-your-course-2.jpg",
+        "id": 6,
+        "userNumb": 49,
+        "rating": 4,
+        "category": "Biology"
+    },
+    {
+        "name": "English",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 100,
+        "image": "https://media.istockphoto.com/photos/were-always-hungry-for-success-picture-id1330547182?k=20&m=1330547182&s=170667a&w=0&h=lihKcrgYlsCVAB2OLNCyq6I3lbLEwptFCUJ0Afy4v10=",
+        "id": 7,
+        "userNumb": 30,
+        "rating": 4,
+        "category": "English"
+    },
+    {
+        "name": "Bangla",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 39,
+        "image": "https://media.istockphoto.com/photos/high-school-students-raising-hands-on-a-class-picture-id1177608272?k=20&m=1177608272&s=612x612&w=0&h=F7kr3P89Uw7SuXpbfTN-mHFlXOHtCOjghwV76sxD1vM=",
+        "id": 8,
+        "userNumb": 20,
+        "rating": 4,
+        "category": "Bangla"
+    },
+    {
+        "name": "History",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 100,
+        "image": "https://www.tutevilla.org/wp-content/uploads/2020/09/G911029504.jpg",
+        "id": 9,
+        "userNumb": 35,
+        "rating": 4.5,
+        "category": "History"
+    },
+    {
+        "name": "Geography",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 200,
+        "image": "https://www.viewsonic.com/library/wp-content/uploads/2020/04/STUDENT-ENGAGEMENT-IN-THE-MODERN-CLASSROOM-4.jpg",
+        "id": 10,
+        "userNumb": 40,
+        "rating": 4,
+        "category": "Geography"
+    },
+    {
+        "name": "Economics",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 60,
+        "image": "https://1.bp.blogspot.com/-uM5rFJi09Zg/XbCGck_W6uI/AAAAAAAADCo/ARGJRatlS1kg7CGY8sS9s6kfzv35mE4wwCLcBGAsYHQ/s1600/Best-innovative-teaching-strategies-for-modern-pedagogy.jpg",
+        "id": 11,
+        "userNumb": 35,
+        "rating": 5,
+        "category": "Economics"
+    },
+    {
+        "name": "Accounting",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "price": 90,
+        "image": "https://www.thoughtco.com/thmb/owFfU26V-iLsaFiK2fBcwRICMOg=/2122x1415/filters:no_upscale():max_bytes(150000):strip_icc()/image-source-3-58b8e6f03df78c353c254467.jpg",
+        "id": 12,
+        "userNumb": 95,
+        "rating": 4,
+        "category": "Accounting"
+    }
+
+
+]
