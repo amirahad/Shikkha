@@ -4,7 +4,7 @@ import { faUsers } from "@fortawesome/free-solid-svg-icons";
 import Rating from 'react-rating';
 
 const Course = (props) => {
-    const { name, price, instructor, image, description, userNumb, rating } = props.course;
+    const { name, price, image, description, userNumb, rating } = props.course;
     return (
         <div className="p-2 bg-white rounded">
             <div>
@@ -25,8 +25,6 @@ const Course = (props) => {
                     <span className="text-yellow-500 text-xl font-semibold"><FontAwesomeIcon icon={faUsers} /> {userNumb} </span>
                 </div>
                 <p className="text-xl font-semibold float-right mr-6"> <span className="text-2xl text-yellow-500">${price}</span></p>
-
-
             </div>
         </div>
     )

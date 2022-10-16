@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom';
 import Course from '../Course/Course';
 
 const Courses = (props) => {
@@ -33,6 +34,15 @@ const Courses = (props) => {
                             courses.map(course => <Course key={course.id} course={course}></Course>).slice(0, limit)
                         }
                     </div>
+                    {
+                        limit === 3 && <div className="flex justify-center">
+                            <Link to="/services">
+                                <button className="theme-btn mt-10 hover:mt-8">
+                                    <span className="btn-text">Show More</span>
+                                </button>
+                            </Link>
+                        </div>
+                    }
                 </div>
             </div>
         </div>

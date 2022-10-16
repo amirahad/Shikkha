@@ -2,6 +2,7 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import './App.css'
 import About from './component/About/About'
+import Footer from './component/Footer/Footer'
 import Home from './component/Home/Home'
 import Navbar from './component/Navbar/Navbar'
 import NotFound from './component/NotFound/NotFound'
@@ -31,6 +32,7 @@ function App() {
             <NotFound />
           </Route>
         </Switch>
+        <Footer />
       </BrowserRouter>
 
     </div>
